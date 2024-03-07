@@ -2,7 +2,7 @@
 
 Conway's famous cellular automaton "Game of Life" in JavaScript using p5.js.
 
-![demo][assets/demo.gif]
+![demo](assets/demo.gif)
 
 ## Description
 
