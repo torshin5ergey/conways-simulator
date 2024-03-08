@@ -44,4 +44,4 @@ This work is licensed under a
 
 ## Author
 
-[Sergey Torshin] - [https://github.com/torshin5ergey]
+(Sergey Torshin)[https://github.com/torshin5ergey]
