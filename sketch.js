@@ -34,7 +34,7 @@ const HEIGHT = 100; // CA field height
 const CELL_W = CANVAS_W / WIDTH; // Cell width
 const CELL_H = CANVAS_H / HEIGHT; // Cell height
 
-let cells = []; // Sells values array
+let cells = []; // Cells values array
 
 const FG = "#E15A97"; // Foreground color
 const BG = "#2F2F2F"; // Background color
