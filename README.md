@@ -1,4 +1,4 @@
-# Conway's Game of Life with p5.js
+# John Conway's Game of Life with p5.js
 
 Conway's famous cellular automaton "Game of Life" in JavaScript using p5.js.
 
